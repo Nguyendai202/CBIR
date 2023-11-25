@@ -38,12 +38,17 @@ API này cho phép xử lý hình ảnh và trả về kết quả bằng cách 
 
 4. API sẽ chạy trên `http://127.0.0.1:8000`.
    bạn gõ thêm /docs ở phía sau api >> `http://127.0.0.1:8000/docs`
+   
+   ![test](test/581003.jpg)
 
    
+![result](test/cibrapi.png)
 
 ## Sử dụng API
 
 API này chỉ có một endpoint `/api` nhận một hình ảnh làm tham số đầu vào.
+
+
 
 ### Request
 
