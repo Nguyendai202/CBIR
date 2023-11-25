@@ -1,5 +1,6 @@
 # CBIR
 The project uses HOG and HISTOGRAM features to perform image queries
+
 Dưới đây là một ví dụ README hướng dẫn chạy API này:
 
 # Hướng dẫn chạy API
